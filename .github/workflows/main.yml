@@ -30,7 +30,7 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
-        run: python bot.py
+       run: python botcopytrade.py
 
       - name: 💾 Lưu trí nhớ vào GitHub
         run: |
