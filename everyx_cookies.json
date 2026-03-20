@@ -1,0 +1,142 @@
+[
+  {
+    "name": "wagmi.store",
+    "value": "{\"state\":{\"connections\":{\"__type\":\"Map\",\"value\":[]},\"chainId\":1,\"current\":null},\"version\":2}",
+    "domain": "everyx.io",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Host-next-auth.csrf-token",
+    "value": "33a136d5c42ac62c1cf36258ed79e4d71cccb11e751b9c4dffef7deccb959301%7C67fe124c64455a66eb014cbe384e0167cd72ace97fa046348ace93f741f5c652",
+    "domain": "everyx.io",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__tg-userID",
+    "value": "JTIydGctMDIwMGU0OTU4ZDU3ZWI4YjRiZDIzMmQwZGRiYmU4Y2IwYWE0OGU3ZSUyMg==",
+    "domain": ".everyx.io",
+    "path": "/",
+    "expires": 1805364329,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__tg-userCreateTime",
+    "value": "MTc3MzgyODMyOTc2Nw==",
+    "domain": ".everyx.io",
+    "path": "/",
+    "expires": 1805364329,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__tg-userParams",
+    "value": "JTdCJTIydGltZXN0YW1wJTIyJTNBMTc3MzgyODMyOTc2NyUyQyUyMmxhbmRpbmdfcGFnZSUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGZXZlcnl4LmlvJTJGJTIyJTdE",
+    "domain": ".everyx.io",
+    "path": "/",
+    "expires": 1805364329,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-next-auth.state",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..KgXqRkvossl7xT0w.Q58NcXUKEfUoivoQNY9Lrjc4_6koBCLsDxoSYVKQ7kwCfFEPMbAbjCv7Fr9cVQeplmfsp-dULR1-d1jJBb2xmlP5c4dM_3V5dMA2lDn0ut7r5LMzobmF8_a7zngK5YHpWXO6nfctHjC_q1aFnpQRIgoG6I3GDvrsIh18i5OVIhsdibzxHVk.HX8dqmnf8roHB2oDRZxcLw",
+    "domain": "everyx.io",
+    "path": "/",
+    "expires": 1773829239.374694,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-next-auth.pkce.code_verifier",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..oyiFfURPuXT9KptK.tcnbhoWQuwK2LpdtdNd7tEtMFot8bB90GYUkg5_sECBEbfooHIgHl67Ipi9jIq3Cw9Kk5bw_1PqZ7Ihrry6T2fcE0W7ncob6qTjb0jAFHzn0oQ2GYqdLEd3OQpA7M_zuodPe7L67nPjRRoogKVr5AJlJQMsrmy_XOJtGxPlwfQynpB9qmiE.nuTUCB9NX-i7RdS58XYQSA",
+    "domain": "everyx.io",
+    "path": "/",
+    "expires": 1773829239.374736,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Host-GAPS",
+    "value": "1:vFprNb1EdsuvO1oiq2XeyhDduuwXGg:s-EIfztcPhGOKxtm",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1808388339.656573,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "NID",
+    "value": "529=s55hTXi8RIswmv2SKehp7U1aCPzITEpaGBqlcglynCviZH2RJ1I9vcrA6PWbHit7f_Z1HkmsXAbVLeTO33QG3ham6wCXHLd95070U1I09LeFGTrDy8Uy2IRnhU93jRkvH5MZPbpwdBKbFFSD9IZ8bZHnrS8X3OWc3NEuk2HZbbKq77SXhfNYarjAVZOe1F8-tmDclaMqaBoiOhr4",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1789639540.749293,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-next-auth.callback-url",
+    "value": "https%3A%2F%2Feveryx.io%2Flogin",
+    "domain": "everyx.io",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-next-auth.session-token",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..abAA6V__dCjXffOX.fnJRiCdm4pqPUxUGA6fHxDlgyqviKxSSGDN8W5WeTBoAV41vhzApS9evlD_AV3gEBjoY0XOxGvPL7MKkcHzHUt9eHEzLXT9N-MGsIqRMmq2ri3KzTdzQQmm5UsP7GmIF07bxQ-6IoPd6z3AJ7EVQgtlXH2IyDRJcIe_WHTe0jDW4eUubFWsQZLUiQD0vTYtSEQQ5eB4TtnnGqbCwWirxP9LB6wRTfR2A6p5N6KJO-2vehuYPsWEzMrVD4fouvINf0P-gPnQdSDlaida4EKXSBMEGASsM65DqGpBK7bXoDGAAIui4X2DWeyjO_VX-JHfVSwI_Iyqdm-YEHn6GvJ9NYsgNiHzog-ttraV0HA0fHG8Za2GEH7sab4pbbC1NGwp4a9bhgb4UrgVENs9vQeBgaIlhH2CJs_T1FAk5QqxI1LLQX9Md6i0r0BGXmEhjiZheROokCgRXqVY6gqG3l8W9sPebJFyPJ44CZQIVKjwRwWVQCKHYRukqVCLMqCjUysS_2kvbihohkanwDHofW-iqscZ8wMTqieQr24DvvLL5PXXsA1vlolxBxg.8K2KjOupTLsKB-t7jfojqw",
+    "domain": "everyx.io",
+    "path": "/",
+    "expires": 1776420362.750198,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1106430885.1773828363",
+    "domain": ".everyx.io",
+    "path": "/",
+    "expires": 1781604362,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.1268208273.1773828363",
+    "domain": ".everyx.io",
+    "path": "/",
+    "expires": 1808388362.987424,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_86L83MDZ4B",
+    "value": "GS2.1.s1773828362$o1$g1$t1773828364$j58$l0$h0",
+    "domain": ".everyx.io",
+    "path": "/",
+    "expires": 1808388364.066384,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
